@@ -1,0 +1,15 @@
+<!DOCTYPE html><html><body style="background-color:antiquewhite;"><!--https://www.w3schools.com/colors/colors_names.asp-->
+<style>
+a:link {color: blue;  background-color: transparent; text-decoration: none; font-size: 20px;font-family: "Segoe UI";line-height: 35px;}
+a:visited {color: blue;background-color: transparent; text-decoration: none;}
+h1 {color: black;  background-color: transparent; text-decoration: none; font-size: 20px;font-family: "Segoe UI";line-height: 0px;margin-left: 30px; margin-top:30px;}
+.tab { margin-left: 30px;
+</style>
+
+<p class="tab">  
+<b><a href="https://app.dashlane.com/">DASH</a><br>
+<a href="https://www.ebay.com/b/Mens-Vintage-Clothing/182044/bn_2309544">EBAY</a><br> 
+<a href="https://www.facebook.com/">FACE</a><br>
+<a href="https://drive.google.com/drive/my-drive">GDRIVE</a><br>
+<a href="https://mail.google.com/mail/u/0/#inbox">GMAIL</a></b><br><br>
+</p></body></html>
